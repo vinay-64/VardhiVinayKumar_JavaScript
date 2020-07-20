@@ -1,0 +1,72 @@
+
+.c{
+text-align: center;
+}
+.f{
+	width: 100% ;
+	padding-top: 10px ; 
+	padding-bottom: 10px; 
+	background-color: #3b5998 ;
+}
+
+.input-container {
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+  width: 100%;
+  margin-bottom: 15px;
+}
+.input-field {
+  width: 100%;
+  padding: 10px;
+  outline: none;
+}
+.input-field:focus {
+  border: 2px solid dodgerblue;
+}
+.icon {
+  padding: 10px;
+  background: dodgerblue;
+  color: white;
+  min-width: 50px;
+  text-align: center;
+}
+.sub{
+	width: 100% ;
+	padding-top: 20px ; 
+	padding-bottom: 20px; 
+	background-color: dodgerblue;
+	color: white;;
+}
+.form_group{
+	position: relative;
+  margin-bottom:15px;
+  margin-left:30px;
+  margin-right:40px;
+}
+.fa {
+  padding: 20px;
+  font-size: 20px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.epam{
+	width: 100% ;
+	padding-top: 20px ; 
+	padding-bottom: 20px; 
+	background-color: #98F60D
+}	
+
